@@ -32,7 +32,7 @@ dependencies {
     modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
     // Mods libs
     modImplementation "com.terraformersmc:modmenu:${project.modmenu_version}"
-    modImplementation "dev.isxander.yacl:yet-another-config-lib-fabric:${project.yacl}"
+    modImplementation "com.github.DenEnen:YetAnotherConfigLibe:-SNAPSHOT:${project.yacl}"
     //
     include(implementation "org.json:json:${project.JSON}")
 
